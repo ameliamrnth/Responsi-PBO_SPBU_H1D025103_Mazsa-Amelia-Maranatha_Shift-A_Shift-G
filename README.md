@@ -26,7 +26,7 @@ java Main
 ```
 
 # Screenshot Output:
-![output program](screenshot.jpg)
+![output program](screenshot.png)
 
 # Konsep yang Dipakai:
 1. State dan behavior: atribut seperti stokLiter dan pendapatan, method void tampilkanInformasi(), method fungsi hitungBiaya() dan getPendapatan()
